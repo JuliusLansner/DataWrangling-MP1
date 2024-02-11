@@ -11,3 +11,4 @@ Mikkel -> web_scraping_philosophy_books.ipynb / philosophy_books_data.csv
 My program gathers information about current philosophy books for sale. The data includes details such as title, price, reviews, and availability. Once the data is collected, it undergoes a minor cleanup and is then saved in a .csv file. Subsequently, the program reads the .csv file, and the data is presented appropriately.
 
 Malde ->
+I have gathered some information about plane crashes, and play around with cleaning data, and trying out some of the things we learned in class, in my program i used most of the time cleaning data, but i have also tried to descripe the data in some graphs and using a correlation coefficient, to give kind of an overview over some of the more interesting data.
