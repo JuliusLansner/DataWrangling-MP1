@@ -1,4 +1,4 @@
-Julius -> warframeAPI.ipynb
+Julius -> warframeAPI.ipynb: 
 This is a snippet from a project of my own(Julius) that i started to practice python on the first day.
 I became sick wed/thursday the 8th and therefore it is not as thorough as i would've wanted, in terms of considerations
 
